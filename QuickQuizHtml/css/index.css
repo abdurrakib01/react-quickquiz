@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: rgb(235, 232, 232);
+}
+
+.nav {
+    width: 100%;
+    height: 55px;
+    background-color: white;
+    display: flex;
+}
+
+#logo {
+    color: rgb(241, 53, 68);
+}
+.nav h2 {
+    margin: 12px;
+    margin-left: 20px;
+}
+
+.nav p{
+    margin-top: 15px;
+    margin-left: 81%;
+    font-size: 18px;
+}
+
+a {
+    text-decoration: none;
+    margin-left: 13px;
+}
+
+main{
+    margin: 50px;
+}
