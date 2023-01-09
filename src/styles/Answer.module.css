@@ -1,0 +1,15 @@
+#correct {
+  background-color: rgb(93, 179, 93);
+  display: flex;
+  justify-content: space-between;
+}
+#wrong {
+  background-color: rgb(235, 99, 99);
+  display: flex;
+  justify-content: space-between;
+}
+
+#pp {
+  font-size: 18px;
+  margin-right: 10px;
+}
