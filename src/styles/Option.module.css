@@ -1,0 +1,17 @@
+.option {
+  background-color: beige;
+  width: 700px;
+  margin: 20px;
+  height: 60px;
+  display: flex;
+  align-items: center;
+  padding-left: 20px;
+}
+
+.option p {
+  font-size: 20px;
+}
+
+.option:hover {
+  background: aquamarine;
+}
